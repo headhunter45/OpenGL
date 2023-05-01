@@ -1,0 +1,7 @@
+#ifndef BAZEL_WINDOWS_TUTORIAL01_TUTORIAL1_H__
+#define BAZEL_WINDOWS_TUTORIAL01_TUTORIAL1_H__
+
+void InitializeOpenGL();
+void InitializeVertexBuffer();
+
+#endif  // BAZEL_WINDOWS_TUTORIAL01_TUTORIAL1_H__
